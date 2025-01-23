@@ -1,4 +1,4 @@
-# STMInterfaceWithOLED
+# STM Interface With OLED display
 Here, you can find the OLED Interface code for STM microcontroller. 
 
 # How to use this code
