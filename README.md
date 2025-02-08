@@ -5,7 +5,9 @@ The OLED display used here is GME12864 (4 pin, I2C, SSD1306, 0.96 inch)
 
 The STM microcontroller used here is STM32F411CEU6.
 
-Youtube link to know how to use this code: https://youtu.be/Ci4oguLzmbY?si=xWyAi70tl5cin7eL
+# Youtube tutorials
+1. How to interface OLED display with STM --> https://youtu.be/Ci4oguLzmbY?si=xWyAi70tl5cin7eL
+2. Explore OLED interfaceS with STM --> https://youtu.be/WDRm7mhugtg?si=xIMnhOHYD4QJzB2i
 
 ## References:
 
