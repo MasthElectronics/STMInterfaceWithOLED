@@ -7,7 +7,7 @@ The STM microcontroller used here is STM32F411CEU6.
 
 # Youtube tutorials
 1. How to interface OLED display with STM --> https://youtu.be/Ci4oguLzmbY?si=xWyAi70tl5cin7eL
-2. Explore OLED interfaceS with STM --> https://youtu.be/WDRm7mhugtg?si=xIMnhOHYD4QJzB2i
+2. Explore OLED interfaces with STM --> https://youtu.be/WDRm7mhugtg?si=xIMnhOHYD4QJzB2i
 
 ## References:
 
