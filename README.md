@@ -11,6 +11,6 @@ The STM microcontroller used here is STM32F411CEU6.
 
 ## References:
 
-https://controllerstech.com/oled-display-using-i2c-stm32/#info_box
+https://controllerstech.com/oled-display-using-i2c-stm32/
 
 https://www.instructables.com/How-to-Display-Images-on-OLED-Using-Arduino/
